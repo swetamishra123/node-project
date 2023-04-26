@@ -1,1 +1,1 @@
-A AI Image Genrator using OpenAI and node ja
+A AI Image Genrator using OpenAI and node js
