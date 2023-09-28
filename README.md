@@ -3,9 +3,7 @@
 Welcome to the AI Image Generator project! This application leverages the power of OpenAI to generate images based on textual descriptions.
 
 
-## Introduction
 
-The AI Image Generator is a Node.js application that interacts with OpenAI's powerful GPT-3 model to create images from textual descriptions. You can provide a textual prompt, and the application will generate an image that matches the description.
 
 ## Demo
 
