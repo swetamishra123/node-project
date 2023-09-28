@@ -29,8 +29,8 @@ Follow these steps to set up the AI Image Generator:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-image-generator.git
-   cd ai-image-generator
+   git clone https://github.com/swetamishra123/node-project.git
+   cd node-project
    
 2.Install dependencies:
 
